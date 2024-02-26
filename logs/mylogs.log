@@ -1,0 +1,551 @@
+20240223 10:30:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java55 - https://qa-tekarch.firebaseapp.comis entered
+20240223 10:30:15 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 10:30:15 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 10:30:15 INFO  [main] base.BasePage BasePage.java59 - text is extracted from stu regi form text
+20240223 10:30:15 INFO  [main] base.BasePage BasePage.java60 - Extracted Text 
+20240223 10:30:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 10:36:07 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java55 - https://qa-tekarch.firebaseapp.comis entered
+20240223 10:36:08 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 10:36:08 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 10:36:09 INFO  [main] base.BasePage BasePage.java106 - wait for home page loadis visible
+20240223 10:36:09 INFO  [main] base.BasePage BasePage.java59 - text is extracted from stu regi form text
+20240223 10:36:09 INFO  [main] base.BasePage BasePage.java60 - Extracted Text Student Registration Form
+20240223 10:36:09 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 22:56:27 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 22:56:27 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 22:56:28 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 22:56:30 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 22:56:30 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 22:56:38 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 22:56:38 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 22:56:38 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 22:56:38 INFO  [main] base.BasePage BasePage.java59 - text is extracted from No password error
+20240223 22:56:38 INFO  [main] base.BasePage BasePage.java60 - Extracted Text Please enter your password.
+20240223 22:56:38 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 22:56:38 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 22:56:46 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 22:56:47 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 22:56:47 INFO  [main] base.BasePage BasePage.java48 - Remember Mebutton is clicked
+20240223 22:56:47 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 22:56:49 INFO  [main] base.BasePage BasePage.java106 - usermenuis visible
+20240223 22:56:49 INFO  [main] base.BasePage BasePage.java106 - usermenu logoutis visible
+20240223 22:56:52 INFO  [main] base.BasePage BasePage.java59 - text is extracted from Remembered username
+20240223 22:56:52 INFO  [main] base.BasePage BasePage.java60 - Extracted Text rev@att.com
+20240223 22:56:52 INFO  [main] base.BasePage BasePage.java130 - Remember me checkbox selectedis selected
+20240223 22:56:52 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 22:56:52 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 22:56:55 INFO  [main] base.BasePage BasePage.java48 - forgetpasswordbutton is clicked
+20240223 22:56:55 INFO  [main] base.BasePage BasePage.java37 - data is entered in forgot password Username textbox
+20240223 22:56:55 INFO  [main] base.BasePage BasePage.java48 - Continue in forget passwordbutton is clicked
+20240223 22:56:55 INFO  [main] base.BasePage BasePage.java59 - text is extracted from emailtext
+20240223 22:56:55 INFO  [main] base.BasePage BasePage.java60 - Extracted Text We’ve sent you an email with a link to finish resetting your password.
+20240223 22:56:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 22:56:56 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 22:57:04 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 22:57:04 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 22:57:04 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 22:57:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 22:57:04 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 23:02:13 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 23:02:13 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 23:02:14 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 23:02:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 23:02:17 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 23:02:25 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 23:02:25 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 23:02:25 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 23:02:25 INFO  [main] base.BasePage BasePage.java59 - text is extracted from No password error
+20240223 23:02:25 INFO  [main] base.BasePage BasePage.java60 - Extracted Text Please enter your password.
+20240223 23:02:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 23:02:25 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 23:02:33 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 23:02:33 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 23:02:33 INFO  [main] base.BasePage BasePage.java48 - Remember Mebutton is clicked
+20240223 23:02:34 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 23:02:36 INFO  [main] base.BasePage BasePage.java106 - usermenuis visible
+20240223 23:02:37 INFO  [main] base.BasePage BasePage.java106 - usermenu logoutis visible
+20240223 23:02:39 INFO  [main] base.BasePage BasePage.java59 - text is extracted from Remembered username
+20240223 23:02:39 INFO  [main] base.BasePage BasePage.java60 - Extracted Text rev@att.com
+20240223 23:02:39 INFO  [main] base.BasePage BasePage.java130 - Remember me checkbox selectedis selected
+20240223 23:02:39 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 23:02:39 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 23:02:42 INFO  [main] base.BasePage BasePage.java48 - forgetpasswordbutton is clicked
+20240223 23:02:42 INFO  [main] base.BasePage BasePage.java37 - data is entered in forgot password Username textbox
+20240223 23:02:43 INFO  [main] base.BasePage BasePage.java48 - Continue in forget passwordbutton is clicked
+20240223 23:02:43 INFO  [main] base.BasePage BasePage.java59 - text is extracted from emailtext
+20240223 23:02:43 INFO  [main] base.BasePage BasePage.java60 - Extracted Text We’ve sent you an email with a link to finish resetting your password.
+20240223 23:02:43 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 23:02:43 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240223 23:02:51 INFO  [main] base.BasePage BasePage.java37 - data is entered in username field textbox
+20240223 23:02:51 INFO  [main] base.BasePage BasePage.java37 - data is entered in password field textbox
+20240223 23:02:51 INFO  [main] base.BasePage BasePage.java48 - login buttonbutton is clicked
+20240223 23:02:51 INFO  [main] base.BasePage BasePage.java59 - text is extracted from Invalid username and password
+20240223 23:02:51 INFO  [main] base.BasePage BasePage.java60 - Extracted Text Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240223 23:02:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java66 - current browser closed
+20240223 23:02:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:42:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:42:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:42:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:42:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:42:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:42:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:42:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:42:54 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:42:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:42:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:42:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:42:56 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:42:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:43:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:43:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:43:00 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:43:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:43:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:43:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:43:03 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:58:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:58:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:58:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:58:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:58:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:58:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:58:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:58:54 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:58:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:58:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:58:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:58:56 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:58:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:58:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:58:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:58:59 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 13:59:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java59 - chrome browser opened
+20240224 13:59:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java64 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 13:59:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java69 - current browser closed
+20240224 13:59:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:18:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:18:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:18:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:18:47 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:18:49 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:18:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:18:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:18:50 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:18:52 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:18:52 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:18:52 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:18:52 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:18:54 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:18:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:18:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:18:55 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:18:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:18:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:18:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:18:58 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:26:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:26:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:26:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:26:18 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:26:20 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:26:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:26:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:26:21 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:26:23 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:26:23 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:26:24 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:26:24 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:26:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:26:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:26:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:26:26 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:26:28 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java52 - chrome browser opened
+20240224 14:26:29 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java57 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:26:29 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java62 - current browser closed
+20240224 14:26:29 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:50:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 14:50:48 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:50:48 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 14:50:48 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:50:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 14:50:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:50:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 14:50:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:50:53 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 14:50:54 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:50:54 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 14:50:54 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:50:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 14:50:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:50:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 14:50:57 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 14:50:59 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 14:51:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 14:51:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 14:51:00 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:19:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:19:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:19:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:19:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:19:05 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:19:05 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:19:05 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:19:05 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:19:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:19:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:19:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:19:08 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:19:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:19:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:19:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:19:11 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:19:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:19:14 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:19:14 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:19:14 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:49:48 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:49:49 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:49:49 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:49:49 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:49:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:49:52 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:49:52 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:49:52 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:49:54 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:49:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:49:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:49:55 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:49:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:49:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:49:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:49:58 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 15:50:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 15:50:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 15:50:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java63 - current browser closed
+20240224 15:50:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:20:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:20:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:20:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:20:58 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:21:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:21:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:21:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:21:01 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:21:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:21:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:21:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:21:04 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:21:06 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:21:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:21:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:21:07 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:21:09 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:21:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:21:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:21:10 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:26:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:26:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:26:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:26:10 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:26:12 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:26:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:26:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:26:13 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:26:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:26:16 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:26:16 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:26:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:26:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:26:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:26:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:26:19 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240224 16:26:21 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240224 16:26:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240224 16:26:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240224 16:26:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:27:54 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:27:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:27:55 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:27:55 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:27:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:27:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:27:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:27:58 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:28:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:28:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:28:01 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:28:01 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:28:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:28:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:28:04 INFO  [main] base.BasePage BasePage.java49 - forgetpasswordbutton is clicked
+20240226 09:28:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java238 - Title of Salesforce app:Forgot Your Password | Salesforce
+20240226 09:28:05 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:28:05 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:28:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:28:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:28:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:28:08 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:34:37 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:34:38 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:34:38 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:34:38 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:34:40 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:34:41 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:34:41 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:34:41 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:34:43 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:34:44 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:34:44 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:34:44 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:34:46 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:34:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:34:47 INFO  [main] base.BasePage BasePage.java49 - forgetpasswordbutton is clicked
+20240226 09:34:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java239 - Title of Salesforce app:Forgot Your Password | Salesforce
+20240226 09:34:47 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:34:48 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:34:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:34:50 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:34:51 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:34:51 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:39:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:39:58 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:39:59 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:39:59 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:40:00 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:40:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleLogin | Salesforce
+20240226 09:40:02 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:40:02 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:40:04 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:40:05 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:40:05 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:40:06 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:40:06 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:40:06 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:40:07 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:40:09 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:40:09 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:40:09 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:40:10 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:40:10 INFO  [main] base.BasePage BasePage.java49 - Remember Mebutton is clicked
+20240226 09:40:10 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:40:12 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleLogin | Salesforce
+20240226 09:40:12 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:40:13 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:40:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:40:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:40:15 INFO  [main] base.BasePage BasePage.java49 - forgetpasswordbutton is clicked
+20240226 09:40:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java239 - Title of Salesforce app:Forgot Your Password | Salesforce
+20240226 09:40:16 INFO  [main] base.BasePage BasePage.java38 - data is entered in forgot password Username textbox
+20240226 09:40:16 INFO  [main] base.BasePage BasePage.java49 - Continue in forget passwordbutton is clicked
+20240226 09:40:16 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java259 - Title of Salesforce app: Check Your Email | Salesforce
+20240226 09:40:16 INFO  [main] base.BasePage BasePage.java60 - text is extracted from emailtext
+20240226 09:40:16 INFO  [main] base.BasePage BasePage.java61 - Extracted Text We’ve sent you an email with a link to finish resetting your password.
+20240226 09:40:16 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java264 - Error Message :We’ve sent you an email with a link to finish resetting your password.
+20240226 09:40:16 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java267 - -------- Test Case 4A Execution ENDS ----------
+20240226 09:40:16 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:40:16 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:40:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:40:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:40:19 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:40:20 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:40:20 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:40:20 INFO  [main] base.BasePage BasePage.java60 - text is extracted from Invalid username and password
+20240226 09:40:20 INFO  [main] base.BasePage BasePage.java61 - Extracted Text Please enter your password.
+20240226 09:40:20 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java274 - Error message: Please enter your password.
+20240226 09:40:20 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:40:20 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:46:56 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:46:57 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:46:57 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:46:57 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:46:57 INFO  [main] base.BasePage BasePage.java106 - Winter@1is visible
+20240226 09:46:58 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:46:58 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:46:58 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:47:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleLogin | Salesforce
+20240226 09:47:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:47:00 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:47:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:47:03 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:47:03 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:47:04 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:47:04 INFO  [main] base.BasePage BasePage.java106 - is visible
+20240226 09:47:04 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:47:04 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:47:05 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:47:05 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:47:05 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:47:07 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:47:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:47:08 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:47:08 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:47:08 INFO  [main] base.BasePage BasePage.java106 - Winter@1is visible
+20240226 09:47:09 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:47:09 INFO  [main] base.BasePage BasePage.java106 - Remember Meis visible
+20240226 09:47:09 INFO  [main] base.BasePage BasePage.java49 - Remember Mebutton is clicked
+20240226 09:47:09 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:47:09 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:47:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleLogin | Salesforce
+20240226 09:47:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:47:11 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:47:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:47:14 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:47:14 INFO  [main] base.BasePage BasePage.java49 - forgetpasswordbutton is clicked
+20240226 09:47:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java239 - Title of Salesforce app:Forgot Your Password | Salesforce
+20240226 09:47:15 INFO  [main] base.BasePage BasePage.java38 - data is entered in forgot password Username textbox
+20240226 09:47:15 INFO  [main] base.BasePage BasePage.java49 - Continue in forget passwordbutton is clicked
+20240226 09:47:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java259 - Title of Salesforce app: Check Your Email | Salesforce
+20240226 09:47:15 INFO  [main] base.BasePage BasePage.java60 - text is extracted from emailtext
+20240226 09:47:15 INFO  [main] base.BasePage BasePage.java61 - Extracted Text We’ve sent you an email with a link to finish resetting your password.
+20240226 09:47:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java264 - Error Message :We’ve sent you an email with a link to finish resetting your password.
+20240226 09:47:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java267 - -------- Test Case 4A Execution ENDS ----------
+20240226 09:47:15 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:47:15 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:47:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:47:18 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:47:18 INFO  [main] base.BasePage BasePage.java106 - 123is visible
+20240226 09:47:18 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:47:19 INFO  [main] base.BasePage BasePage.java106 - 12345is visible
+20240226 09:47:19 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:47:19 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:47:19 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:47:19 INFO  [main] base.BasePage BasePage.java60 - text is extracted from Invalid username and password
+20240226 09:47:19 INFO  [main] base.BasePage BasePage.java61 - Extracted Text Please enter your password.
+20240226 09:47:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java274 - Error message: Please enter your password.
+20240226 09:47:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:47:20 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:50:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:50:00 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:50:01 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:50:01 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:50:01 INFO  [main] base.BasePage BasePage.java106 - Winter@1is visible
+20240226 09:50:01 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:50:01 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:50:03 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:50:06 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleHome Page ~ Salesforce - Developer Edition
+20240226 09:50:06 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:50:06 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:50:08 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:50:09 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:50:09 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:50:09 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:50:09 INFO  [main] base.BasePage BasePage.java106 - is visible
+20240226 09:50:10 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:50:10 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:50:10 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:50:10 INFO  [main] base.BasePage BasePage.java60 - text is extracted from No password error
+20240226 09:50:10 INFO  [main] base.BasePage BasePage.java61 - Extracted Text Please enter your password.
+20240226 09:50:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java190 - Error Message: Please enter your password.
+20240226 09:50:10 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:50:11 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:50:13 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:50:14 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:50:14 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:50:14 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:50:14 INFO  [main] base.BasePage BasePage.java106 - Winter@1is visible
+20240226 09:50:15 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:50:15 INFO  [main] base.BasePage BasePage.java106 - Remember Meis visible
+20240226 09:50:15 INFO  [main] base.BasePage BasePage.java49 - Remember Mebutton is clicked
+20240226 09:50:15 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:50:16 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:50:19 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleHome Page ~ Salesforce - Developer Edition
+20240226 09:50:19 INFO  [main] base.BasePage BasePage.java106 - usermenuis visible
+20240226 09:50:19 INFO  [main] base.BasePage BasePage.java106 - usermenu logoutis visible
+20240226 09:50:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:50:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:50:24 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:50:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:50:25 INFO  [main] base.BasePage BasePage.java49 - forgetpasswordbutton is clicked
+20240226 09:50:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java239 - Title of Salesforce app:Forgot Your Password | Salesforce
+20240226 09:50:26 INFO  [main] base.BasePage BasePage.java38 - data is entered in forgot password Username textbox
+20240226 09:50:26 INFO  [main] base.BasePage BasePage.java49 - Continue in forget passwordbutton is clicked
+20240226 09:50:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java259 - Title of Salesforce app: Check Your Email | Salesforce
+20240226 09:50:26 INFO  [main] base.BasePage BasePage.java60 - text is extracted from emailtext
+20240226 09:50:26 INFO  [main] base.BasePage BasePage.java61 - Extracted Text We’ve sent you an email with a link to finish resetting your password.
+20240226 09:50:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java264 - Error Message :We’ve sent you an email with a link to finish resetting your password.
+20240226 09:50:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java267 - -------- Test Case 4A Execution ENDS ----------
+20240226 09:50:26 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:50:26 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:50:28 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:50:29 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:50:29 INFO  [main] base.BasePage BasePage.java106 - 123is visible
+20240226 09:50:29 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:50:29 INFO  [main] base.BasePage BasePage.java106 - 12345is visible
+20240226 09:50:30 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:50:30 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:50:30 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:50:30 INFO  [main] base.BasePage BasePage.java60 - text is extracted from Invalid username and password
+20240226 09:50:30 INFO  [main] base.BasePage BasePage.java61 - Extracted Text Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240226 09:50:30 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java274 - Error message: Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240226 09:50:30 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java277 - -------- Test Case 4b Execution ENDS ----------
+20240226 09:50:30 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:50:30 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:54:11 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:54:12 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:54:12 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:54:12 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:54:13 INFO  [main] base.BasePage BasePage.java106 - Winter@1is visible
+20240226 09:54:13 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:54:13 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:54:14 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:54:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleHome Page ~ Salesforce - Developer Edition
+20240226 09:54:17 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:54:18 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:54:20 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:54:20 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:54:21 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:54:21 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:54:21 INFO  [main] base.BasePage BasePage.java106 - is visible
+20240226 09:54:21 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:54:22 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:54:22 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:54:22 INFO  [main] base.BasePage BasePage.java60 - text is extracted from No password error
+20240226 09:54:22 INFO  [main] base.BasePage BasePage.java61 - Extracted Text Please enter your password.
+20240226 09:54:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java190 - Error Message: Please enter your password.
+20240226 09:54:22 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:54:22 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:54:24 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:54:25 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:54:25 INFO  [main] base.BasePage BasePage.java106 - rev@att.comis visible
+20240226 09:54:26 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:54:26 INFO  [main] base.BasePage BasePage.java106 - Winter@1is visible
+20240226 09:54:26 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:54:26 INFO  [main] base.BasePage BasePage.java106 - Remember Meis visible
+20240226 09:54:26 INFO  [main] base.BasePage BasePage.java49 - Remember Mebutton is clicked
+20240226 09:54:26 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:54:27 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:54:29 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java181 - Home Page titleHome Page ~ Salesforce - Developer Edition
+20240226 09:54:29 INFO  [main] base.BasePage BasePage.java106 - usermenuis visible
+20240226 09:54:30 INFO  [main] base.BasePage BasePage.java106 - usermenu logoutis visible
+20240226 09:54:32 INFO  [main] base.BasePage BasePage.java60 - text is extracted from Remembered username
+20240226 09:54:32 INFO  [main] base.BasePage BasePage.java61 - Extracted Text rev@att.com
+20240226 09:54:32 INFO  [main] base.BasePage BasePage.java130 - Remember me checkbox selectedis selected
+20240226 09:54:32 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:54:32 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:54:34 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:54:35 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:54:35 INFO  [main] base.BasePage BasePage.java49 - forgetpasswordbutton is clicked
+20240226 09:54:35 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java239 - Title of Salesforce app:Forgot Your Password | Salesforce
+20240226 09:54:36 INFO  [main] base.BasePage BasePage.java38 - data is entered in forgot password Username textbox
+20240226 09:54:36 INFO  [main] base.BasePage BasePage.java49 - Continue in forget passwordbutton is clicked
+20240226 09:54:36 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java259 - Title of Salesforce app: Check Your Email | Salesforce
+20240226 09:54:36 INFO  [main] base.BasePage BasePage.java60 - text is extracted from emailtext
+20240226 09:54:36 INFO  [main] base.BasePage BasePage.java61 - Extracted Text We’ve sent you an email with a link to finish resetting your password.
+20240226 09:54:36 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java264 - Error Message :We’ve sent you an email with a link to finish resetting your password.
+20240226 09:54:36 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java267 - -------- Test Case 4A Execution ENDS ----------
+20240226 09:54:36 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:54:36 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
+20240226 09:54:38 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java53 - chrome browser opened
+20240226 09:54:39 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java58 - https://attcom-dev-ed.develop.my.salesforce.com/is entered
+20240226 09:54:39 INFO  [main] base.BasePage BasePage.java106 - 123is visible
+20240226 09:54:39 INFO  [main] base.BasePage BasePage.java38 - data is entered in username field textbox
+20240226 09:54:39 INFO  [main] base.BasePage BasePage.java106 - 12345is visible
+20240226 09:54:40 INFO  [main] base.BasePage BasePage.java38 - data is entered in password field textbox
+20240226 09:54:40 INFO  [main] base.BasePage BasePage.java106 - login buttonis visible
+20240226 09:54:40 INFO  [main] base.BasePage BasePage.java49 - login buttonbutton is clicked
+20240226 09:54:40 INFO  [main] base.BasePage BasePage.java60 - text is extracted from Invalid username and password
+20240226 09:54:40 INFO  [main] base.BasePage BasePage.java61 - Extracted Text Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240226 09:54:40 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java274 - Error message: Please check your username and password. If you still can't log in, contact your Salesforce administrator.
+20240226 09:54:40 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java277 - -------- Test Case 4b Execution ENDS ----------
+20240226 09:54:40 INFO  [main] steps.SalesforceStepDef SalesforceStepDef.java68 - current browser closed
+20240226 09:54:40 INFO  [main] steps.FirebaseStepDef FirebaseStepDef.java60 - current browser closed
